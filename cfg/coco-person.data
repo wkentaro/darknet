@@ -1,0 +1,5 @@
+classes= 1
+train  = /home/wkentaro/data/coco/train2014.txt
+valid  = /home/wkentaro/data/coco/val2014.txt
+names = data/voc-person.names
+backup = backup_coco-person
