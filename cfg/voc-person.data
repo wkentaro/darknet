@@ -1,0 +1,6 @@
+classes= 20
+train  = /home/wkentaro/data/voc/train.txt
+valid  = /home/wkentaro/data/voc/2007_test.txt
+names = data/voc-person.names
+backup = backup
+
