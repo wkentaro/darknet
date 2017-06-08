@@ -1,9 +1,11 @@
+*.a
 *.o
 *.dSYM
 *.csv
 *.out
 *.png
 *.jpg
+*.weights
 old/
 mnist/
 data/
