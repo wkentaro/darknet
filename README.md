@@ -19,3 +19,7 @@ wget https://pjreddie.com/media/files/yolo-voc.weights
 
 ./darknet detector test cfg/voc.data cfg/yolo-voc.cfg yolo-voc.weights data/dog.jpg
 ```
+
+**Result**
+
+![](data/dog_predictions_yolo-voc.jpg)
